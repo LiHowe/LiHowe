@@ -1,6 +1,10 @@
 ### Hi there 👋👋👋
 
-I'm Howe, A Front-End Developer.
+I'm Howe, A (EX)Front-End Developer.
+
+Now is working on c# .net...
+
+A C# Rookie...
 
 > Technically versatile, but not proficient
 
